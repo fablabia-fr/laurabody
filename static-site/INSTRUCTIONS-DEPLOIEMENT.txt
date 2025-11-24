@@ -1,0 +1,111 @@
+═══════════════════════════════════════════════════════════════
+   LAURA BODY - SITE WEB STATIQUE
+   Instructions de Déploiement
+═══════════════════════════════════════════════════════════════
+
+📦 CONTENU DU PACKAGE
+─────────────────────────────────────────────────────────────
+
+Votre site est prêt dans le dossier : /app/static-site/
+
+Fichiers inclus :
+  ├── index.html              (Page principale)
+  ├── css/
+  │   └── styles.css          (Feuille de style)
+  ├── js/
+  │   └── script.js           (Interactions JavaScript)
+  ├── images/
+  │   ├── massage-wellbeing.jpg
+  │   ├── reflexology.jpg
+  │   └── naturopathy.jpg
+  └── README.md               (Documentation)
+
+📥 FICHIER ZIP DISPONIBLE
+─────────────────────────────────────────────────────────────
+
+Un fichier ZIP complet est disponible ici :
+  /app/laura-body-site.zip (217 KB)
+
+🚀 DÉPLOIEMENT VIA FTP
+─────────────────────────────────────────────────────────────
+
+Étape 1 : Télécharger le fichier ZIP
+  - Le fichier laura-body-site.zip contient tout
+
+Étape 2 : Décompresser le fichier
+  - Extraire le contenu du dossier "static-site"
+
+Étape 3 : Se connecter au serveur FTP
+  - Utiliser un client FTP (FileZilla, Cyberduck, etc.)
+  - Ou l'interface FTP de votre hébergeur
+
+Étape 4 : Uploader les fichiers
+  - Uploader TOUS les fichiers dans le dossier racine (public_html, www, htdocs)
+  - Structure finale sur le serveur :
+    votre-site.com/
+    ├── index.html
+    ├── css/styles.css
+    ├── js/script.js
+    └── images/
+
+Étape 5 : Tester
+  - Visiter votre-site.com dans un navigateur
+  - Vérifier que tout fonctionne
+
+✨ FONCTIONNALITÉS
+─────────────────────────────────────────────────────────────
+
+✅ Design responsive (mobile, tablette, desktop)
+✅ Navigation fixe avec effet au scroll
+✅ Animations subtiles au scroll
+✅ Menu hamburger mobile
+✅ Section Hero avec gradient chaleureux
+✅ Section "Notre Approche" avec 3 valeurs
+✅ Section "Prestations" avec 3 services détaillés
+✅ Section Contact avec boutons email
+✅ Footer complet
+✅ Toutes les images hébergées localement
+
+📧 CONTACT
+─────────────────────────────────────────────────────────────
+
+L'adresse email configurée : laura.grangerat@gmail.com
+
+Les boutons "Nous Écrire" et "Prendre RDV" ouvrent
+automatiquement le client email de l'utilisateur.
+
+🎨 PERSONNALISATION
+─────────────────────────────────────────────────────────────
+
+Pour modifier le contenu :
+  - Éditer index.html
+
+Pour changer les couleurs :
+  - Modifier les variables CSS dans css/styles.css
+  - Section :root en haut du fichier
+
+Pour changer l'email :
+  - Rechercher laura.grangerat@gmail.com dans index.html
+  - Remplacer par la nouvelle adresse
+
+🌐 COMPATIBILITÉ
+─────────────────────────────────────────────────────────────
+
+✅ Chrome, Firefox, Safari, Edge (dernières versions)
+✅ iOS Safari, Chrome Mobile
+✅ Responsive sur tous les écrans
+✅ Fonctionne sans serveur backend
+✅ Compatible avec tout hébergement web
+
+💡 SUPPORT TECHNIQUE
+─────────────────────────────────────────────────────────────
+
+Le site est 100% statique et autonome :
+  - Pas de base de données requise
+  - Pas de serveur backend requis
+  - Toutes les images sont incluses
+  - Pas de dépendances externes
+
+═══════════════════════════════════════════════════════════════
+   Site créé pour Laura Body - Naturopathe & Réflexologue 🌿
+═══════════════════════════════════════════════════════════════
