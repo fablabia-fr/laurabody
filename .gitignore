@@ -97,3 +97,7 @@ laura-body-site.zip
 # Fichiers temporaires
 /tmp/
 
+-e 
+# Environment files
+*.env
+*.env.*
