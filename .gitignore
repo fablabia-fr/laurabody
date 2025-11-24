@@ -78,3 +78,22 @@ agenthub/agents/youtube/db
 
 # Mobile development
 android-sdk/ 
+# ========================================
+# Laura Body - Exclusions spécifiques
+# ========================================
+
+# Dossiers du projet template (ne pas déployer)
+frontend/
+backend/
+static-site/
+
+# Documentation de développement
+SITE-LAURA-BODY-RESUME.txt
+COMMENT-RECUPERER-LE-SITE.txt
+test_result.md
+contracts.md
+laura-body-site.zip
+
+# Fichiers temporaires
+/tmp/
+
