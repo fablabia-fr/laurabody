@@ -1,0 +1,79 @@
+═══════════════════════════════════════════════════════════════
+        🌿 LAURA BODY - COMMENT RÉCUPÉRER VOTRE SITE
+═══════════════════════════════════════════════════════════════
+
+Votre site web est terminé et prêt ! Voici comment le récupérer :
+
+📦 OPTION 1 : TÉLÉCHARGER LE FICHIER ZIP (RECOMMANDÉ)
+─────────────────────────────────────────────────────────────
+Fichier : /app/laura-body-site.zip (219 KB)
+
+Ce fichier ZIP contient TOUT ce dont vous avez besoin :
+  ✅ index.html
+  ✅ css/styles.css
+  ✅ js/script.js
+  ✅ images/ (3 images)
+  ✅ Documentation complète
+
+Décompressez simplement le dossier "static-site" et uploadez
+tout le contenu sur votre serveur FTP.
+
+📁 OPTION 2 : TÉLÉCHARGER LES FICHIERS INDIVIDUELLEMENT
+─────────────────────────────────────────────────────────────
+Dossier source : /app/static-site/
+
+Fichiers à télécharger :
+  1. /app/static-site/index.html
+  2. /app/static-site/css/styles.css
+  3. /app/static-site/js/script.js
+  4. /app/static-site/images/massage-wellbeing.jpg
+  5. /app/static-site/images/reflexology.jpg
+  6. /app/static-site/images/naturopathy.jpg
+  7. /app/static-site/README.md (documentation)
+  8. /app/static-site/INSTRUCTIONS-DEPLOIEMENT.txt (guide)
+
+🚀 ÉTAPES DE DÉPLOIEMENT
+─────────────────────────────────────────────────────────────
+1. Télécharger le ZIP ou les fichiers individuels
+2. Décompresser si nécessaire
+3. Se connecter à votre hébergeur via FTP :
+   - Utiliser FileZilla, Cyberduck, ou l'interface de votre hébergeur
+4. Uploader TOUS les fichiers dans le dossier racine :
+   - Souvent appelé : public_html, www, ou htdocs
+5. Conserver la structure des dossiers :
+   votre-site.com/
+   ├── index.html
+   ├── css/styles.css
+   ├── js/script.js
+   └── images/ (3 fichiers)
+6. Tester votre site en visitant votre-site.com
+
+📋 CE QUI EST INCLUS
+─────────────────────────────────────────────────────────────
+✅ Site HTML/CSS/JS 100% statique
+✅ Design moderne "warm-ai" (couleurs chaudes, responsive)
+✅ 7 sections complètes :
+   • Header avec navigation fixe
+   • Hero section avec message principal
+   • Section "Approche" avec 3 valeurs
+   • Section "Prestations" avec 3 services détaillés
+   • Section Contact avec boutons email
+   • Footer complet
+✅ 3 images professionnelles incluses
+✅ Contact via mailto: (laura.grangerat@gmail.com)
+✅ Responsive mobile/tablette/desktop
+✅ Animations au scroll
+✅ Documentation complète
+
+💡 BESOIN D'AIDE ?
+─────────────────────────────────────────────────────────────
+Consultez les fichiers de documentation inclus :
+  • README.md (détails techniques)
+  • INSTRUCTIONS-DEPLOIEMENT.txt (guide détaillé)
+
+🎯 VOTRE SITE EST PRÊT !
+─────────────────────────────────────────────────────────────
+Téléchargez simplement le ZIP et suivez les étapes.
+Votre site sera en ligne en quelques minutes !
+
+═══════════════════════════════════════════════════════════════
